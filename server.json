@@ -1,0 +1,8 @@
+{
+    "name":"github.com/coldbox-templates/rest",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
